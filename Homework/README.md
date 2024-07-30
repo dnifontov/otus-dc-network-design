@@ -9,3 +9,5 @@
 [04 Построение Underlay сети(eBGP)](04/README.md) 
 
 [05 Настройка Overlay сети (VxLan L2)](05/README.md) 
+
+[06 Настройка Overlay сети (VxLan L3)](06/README.md)
