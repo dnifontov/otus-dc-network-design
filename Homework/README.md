@@ -13,3 +13,5 @@
 [06 Настройка Overlay сети (VxLan L3)](06/README.md)
 
 [07 Настройка Overlay сети (vPC)](07/README.md)
+
+[08 Настройка Overlay сети (Route)](08/README.md)
